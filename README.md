@@ -28,7 +28,7 @@
 <br>
 
 ### 📫 Get in Touch
-- 🌐 **Portfolio:** [sanjayadhikari-007.github.io/personal_cv/](https://sanjay-adhikari.com.np/)
+- 🌐 **Portfolio:** [https://sanjay-adhikari.com.np/](https://sanjay-adhikari.com.np/)
 - ✉️ **Email:** sanjuad007@gmail.com
 - 💼 **LinkedIn:** [sanjay-adhikari-9446b220a](https://linkedin.com/in/sanjay-adhikari-9446b220a)
 
